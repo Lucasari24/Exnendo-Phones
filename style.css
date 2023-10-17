@@ -285,7 +285,8 @@ hr {
 
 .nav-header h2 {
     position: absolute;
-    top: -20px;
+    top: 0;
+    buttom: 0;
     left: 0;
     right: 0;
 } 
