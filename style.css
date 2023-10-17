@@ -19,7 +19,7 @@ body {
     rgba(182, 196, 207, .4),
     rgba(182, 196, 207, .4)
   ) 
-  , url(./fotos/fondo1.jpg);
+  , url(./fondo1.jpg);
   background-repeat: no-repeat ;
   background-position: center;
   background-size: cover;
